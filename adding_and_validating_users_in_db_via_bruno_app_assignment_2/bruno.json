@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": " adding_and_validating_users_in_db_via_bruno_app_assignment_2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
